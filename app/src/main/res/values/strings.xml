@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">WhatIsMyAddress</string>
+    <string name="save_email_button">Save Email</string>
+    <string name="recycler_activity_button">Recycler Activity</string>
 </resources>
